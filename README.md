@@ -23,7 +23,7 @@
 
 ## 권고안
 * 팀원들에게 **이미 익숙한 기술**로 가능한 아이디어에서 시작
-* 기획년도 여름방학 중 조기에 착수
+* 기획년도 여름방학 중 이른 시기에 착수
 * 설계안을 [Code] 난에 commit & push 후 주기적으로 갱신 ([git](https://github.com/kangwonlee/tutorial/blob/master/10.git.md), github 숙지)
 * 방학중 매주, 학기중 2주에 1회 지도 교수와 면담 (필요시 online)
 * 겨울 방학 중 1차 완성을 목표로 추진
