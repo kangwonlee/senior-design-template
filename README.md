@@ -29,7 +29,7 @@
 * 겨울 방학 중 1차 완성을 목표로 추진
 * 설계 &rarr; 시작 &rarr; 시험 **싸이클 2회 이상** 실시
 * 과거 졸업작품집을 참고하여 개선안을 모색
-* [Issues] 난을 통하여 토론 (markdown 숙지)
+* [Issues] 난을 통하여 토론 ([markdown](https://guides.github.com/features/mastering-markdown/) 숙지)
 
 
 ## 발표자료
