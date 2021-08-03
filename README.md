@@ -30,6 +30,7 @@
 * 설계 &rarr; 시작 &rarr; 시험 **싸이클 2회 이상** 실시
 * 과거 졸업작품집을 참고하여 개선안을 모색
 * [Issues] 난을 통하여 토론 ([markdown](https://guides.github.com/features/mastering-markdown/) 숙지)
+* [Project] 난을 통해 진행 상황 시각화
 
 
 ## 발표자료
