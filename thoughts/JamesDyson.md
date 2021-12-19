@@ -2,8 +2,6 @@
 
 | time | English | 한국어 |
 |:------:|:------:|:------:|
-|	0:00	|	- I think it's easier for you as an inexperienced designer	|		|
-|	0:04	|	to come up with something different.	|		|
 |	0:05	|	Hi, I'm James Dyson,	|		|
 |	0:07	|	I'm here to answer your questions from Twitter.	|		|
 |	0:10	|	This is "Design Support".	|		|
@@ -81,7 +79,7 @@
 |	3:27	|	and if you're drawing in a lot of air into this device,	|		|
 |	3:32	|	you're creating suction, so that's what suction is.	|		|
 |	3:36	|	Next question is from @JoseOrtega.	|		|
-|	3:38	|	"Product Designers,"	|		|
+|	3:38	|	Product Designers,	|		|
 |	3:40	|	what was your biggest challenge to overcome,	|		|
 |	3:42	|	lack of experience?	|		|
 |	3:44	|	How did you overcome it?	|		|
@@ -236,48 +234,48 @@
 |	10:17	|	and in particular file a patent in many countries	|		|
 |	10:20	|	but the system is expensive because the examiner	|		|
 |	10:24	|	has to search through patent offices all over the world,	|		|
-|	10:28	|	going back many, many years			|
-|	10:30	|	to see if there is a similar invention to yours.			|
-|	10:33	|	But unfortunately			|
-|	10:34	|	it's the only protection that inventors have			|
-|	10:37	|	and it's the only system inventors have.			|
-|	10:39	|	It's far from perfect.			|
-|	10:41	|	It was dreamt up by Henry IV in 1485, I think it was,			|
-|	10:45	|	and it's stayed the same for 600 years			|
-|	10:48	|	and the 20 year life			|
-|	10:49	|	is exactly the same as it was 600 years ago.			|
-|	10:52	|	So, it jolly well needs an overhaul			|
-|	10:54	|	and it's a system that's desperately unfair			|
-|	10:57	|	for the individual inventor or the small business.			|
-|	11:01	|	Next question's from @behoff			|
-|	11:03	|	and it's a very interesting one,			|
-|	11:04	|	What's the most important element of design			|
-|	11:06	|	in your opinion?			|
-|	11:08	|	So I'm going to give you my opinion,			|
-|	11:09	|	which is very different to lots of other people's opinions.			|
-|	11:12	|	When I was at the Royal College of Art being taught design,			|
-|	11:15	|	I discovered engineering			|
-|	11:17	|	and I couldn't understand why engineering			|
-|	11:20	|	was separated from design.			|
-|	11:22	|	Why did you have			|
-|	11:23	|	a white-coated engineer in a lab developing technology			|
-|	11:27	|	and a designer in a separate design studio			|
-|	11:30	|	often completely unrelated			|
-|	11:32	|	to the company developing the product or technology,			|
-|	11:35	|	designing the product?			|
-|	11:36	|	So, I thought design should be part of engineering,			|
-|	11:39	|	like Alec Issigonis with his Mini.			|
-|	11:42	|	So I see design as being everything about a product			|
-|	11:46	|	from the technology to the engineering to the design			|
-|	11:50	|	to how ergonomic it is, how well it performs			|
-|	11:54	|	and how long it lasts and what materials it use			|
-|	11:57	|	and whether it's sustainable or not.			|
-|	11:59	|	So I see design			|
-|	12:00	|	covering this whole broad range of disciplines			|
-|	12:04	|	and bringing it all together in a seamless			|
-|	12:06	|	and uninterrupted way.			|
-|	12:08	|	Well, that's it for now.			|
-|	12:09	|	They were really good questions,			|
-|	12:11	|	absolutely the right questions to be answering			|
-|	12:13	|	and look forward to next time.			|
-|	12:15	|	Goodbye.			|
+|	10:28	|	going back many, many years	|		|
+|	10:30	|	to see if there is a similar invention to yours.	|		|
+|	10:33	|	But unfortunately	|		|
+|	10:34	|	it's the only protection that inventors have	|		|
+|	10:37	|	and it's the only system inventors have.	|		|
+|	10:39	|	It's far from perfect.	|		|
+|	10:41	|	It was dreamt up by Henry IV in 1485, I think it was,	|		|
+|	10:45	|	and it's stayed the same for 600 years	|		|
+|	10:48	|	and the 20 year life	|		|
+|	10:49	|	is exactly the same as it was 600 years ago.	|		|
+|	10:52	|	So, it jolly well needs an overhaul	|		|
+|	10:54	|	and it's a system that's desperately unfair	|		|
+|	10:57	|	for the individual inventor or the small business.	|		|
+|	11:01	|	Next question's from @behoff	|		|
+|	11:03	|	and it's a very interesting one,	|		|
+|	11:04	|	What's the most important element of design	|		|
+|	11:06	|	in your opinion?	|		|
+|	11:08	|	So I'm going to give you my opinion,	|		|
+|	11:09	|	which is very different to lots of other people's opinions.	|		|
+|	11:12	|	When I was at the Royal College of Art being taught design,	|		|
+|	11:15	|	I discovered engineering	|		|
+|	11:17	|	and I couldn't understand why engineering	|		|
+|	11:20	|	was separated from design.	|		|
+|	11:22	|	Why did you have	|		|
+|	11:23	|	a white-coated engineer in a lab developing technology	|		|
+|	11:27	|	and a designer in a separate design studio	|		|
+|	11:30	|	often completely unrelated	|		|
+|	11:32	|	to the company developing the product or technology,	|		|
+|	11:35	|	designing the product?	|		|
+|	11:36	|	So, I thought design should be part of engineering,	|		|
+|	11:39	|	like Alec Issigonis with his Mini.	|		|
+|	11:42	|	So I see design as being everything about a product	|		|
+|	11:46	|	from the technology to the engineering to the design	|		|
+|	11:50	|	to how ergonomic it is, how well it performs	|		|
+|	11:54	|	and how long it lasts and what materials it use	|		|
+|	11:57	|	and whether it's sustainable or not.	|		|
+|	11:59	|	So I see design	|		|
+|	12:00	|	covering this whole broad range of disciplines	|		|
+|	12:04	|	and bringing it all together in a seamless	|		|
+|	12:06	|	and uninterrupted way.	|		|
+|	12:08	|	Well, that's it for now.	|		|
+|	12:09	|	They were really good questions,	|		|
+|	12:11	|	absolutely the right questions to be answering	|		|
+|	12:13	|	and look forward to next time.	|		|
+|	12:15	|	Goodbye.	|		|
